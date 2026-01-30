@@ -159,7 +159,6 @@ src/
 
 ---
 
-## 4. Modelado de Datos (MER) y Mapeo a Clases
 
 
 ## 4. Modelado de Datos (MER)
