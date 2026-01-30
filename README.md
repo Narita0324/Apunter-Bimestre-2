@@ -179,6 +179,7 @@ El Modelo Entidad-Relación es una representación gráfica de cómo se organiza
 3. Definir cómo se relacionan.
 4. Transformar en tablas SQL.
 
+![17697977367772595586210997078874](https://github.com/user-attachments/assets/d0f78952-d04e-4369-9e4d-bb9c18cdfe13)
 
 
 
