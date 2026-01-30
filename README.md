@@ -65,7 +65,7 @@ Un sistema de gestión de bases de datos ligero que funciona como una biblioteca
 - **Vistas**: Consultas predefinidas para simplificar acceso.
 - **Índices**: Mejorar rendimiento en búsquedas frecuentes.
 
----
+
 
 ### 2.2 Operaciones CRUD básicas
 
@@ -91,7 +91,6 @@ ps.executeUpdate();
 
 ## 3. Arquitectura N-Capas (N-Tier/N-Layer)
 
-## 3. Arquitectura N-Capas (N-Tier/N-Layer)
 
 ### ¿Qué es?
 Una arquitectura que organiza el código en capas o niveles separados, cada uno con responsabilidades específicas.
@@ -131,7 +130,6 @@ Una arquitectura que organiza el código en capas o niveles separados, cada uno 
 4. DAL ejecuta SQL en la base de datos
 5. Los datos viajan de regreso a través de DTOs
 
----
 
 
 ### 3.1 Capas principales
@@ -183,7 +181,6 @@ El Modelo Entidad-Relación es una representación gráfica de cómo se organiza
 
 
 
----
 
 ### 4.2 Mapeo MER → Clases Java
 Cada tabla se mapea a una clase Java (DTO/Entity):
@@ -222,7 +219,7 @@ public class Usuario {
 - Registrar eventos importantes: inicio de sesión, errores, accesos.
 - Configurar diferentes niveles según el entorno (desarrollo/producción).
 
----
+
 
 ### 5.1 Manejo de excepciones
 ```java
@@ -271,7 +268,7 @@ logger.severe("Error grave");
 - **Uso común**: Para conexiones a base de datos.
 - **Beneficio**: Controlar el acceso a recursos compartidos.
 
----
+
 
 | Relación       | Descripción                                                                                     | Ejemplo en código                                                                                  |
 |----------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -308,7 +305,6 @@ logger.severe("Error grave");
 5. Documentación
 6. Mantenimiento
 
----
 
 ### 7.1 Factory Pattern
 Centraliza la creación de objetos (ej. instanciación de clases BL o DAO).
@@ -348,7 +344,7 @@ Reutilización de controles Swing con estilos aplicados desde `AppStyle`.
 - Herramientas administrativas
 - Sistemas de registro y control
 
----
+
 
 ### 8.1 Driver SQLite JDBC
 - Librería requerida: `sqlite-jdbc-3.40.0.0.jar`
