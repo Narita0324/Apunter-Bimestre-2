@@ -196,7 +196,7 @@ public class Usuario {
 ---
 
 ## 5. Control de Errores y Logs
-## 5. Control de Errores y Logs
+
 
 ### Manejo de Excepciones:
 - **Try-Catch**: Capturar errores sin que el programa se detenga.
@@ -245,7 +245,7 @@ logger.severe("Error grave");
 
 ## 6. Relaciones entre Clases (UML)
 
-## 6. Patrones de Diseño Aplicados
+## Patrones de Diseño Aplicados
 
 ### 1. **DAO (Data Access Object)**
 - **Propósito**: Separar la lógica de acceso a datos del resto de la aplicación.
@@ -281,7 +281,7 @@ logger.severe("Error grave");
 
 ## 7. Patrones y Buenas Prácticas
 
-## 7. Desarrollo de Aplicaciones Empresariales
+## Desarrollo de Aplicaciones Empresariales
 
 ### Características de aplicaciones empresariales:
 1. **Procesos complejos**: Flujos de trabajo con múltiples pasos.
@@ -320,7 +320,7 @@ Reutilización de controles Swing con estilos aplicados desde `AppStyle`.
 ---
 
 ## 8. Configuración del Entorno
-## 8. Integración de Conocimientos
+## Integración de Conocimientos
 
 ### Proyecto típico del bimestre:
 1. **Diseño**: MER y diagramas UML para planear la aplicación.
