@@ -65,6 +65,7 @@ Un sistema de gestión de bases de datos ligero que funciona como una biblioteca
 - **Vistas**: Consultas predefinidas para simplificar acceso.
 - **Índices**: Mejorar rendimiento en búsquedas frecuentes.
 
+<img width="718" height="468" alt="17697975950127709696201318257078" src="https://github.com/user-attachments/assets/284efb21-30f1-456d-a8b6-a625a984a192" />
 
 
 ### 2.2 Operaciones CRUD básicas
