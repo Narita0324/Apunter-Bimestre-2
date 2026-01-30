@@ -2,6 +2,8 @@
 
 ---
 
+**AUTOR:** Samara Salazar
+
 ## 1. Java Swing – Interfaces Gráficas de Usuario
 
 ### ¿Qué es Java Swing?
